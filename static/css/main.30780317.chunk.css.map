@@ -1,0 +1,1 @@
+{"version":3,"sources":["IndividualOrg.css"],"names":[],"mappings":"AAAA,aACI,SACJ,CAEA,OACI,iBAAkB,CAClB,OAAU,CACV,wBAAyB,CACzB,SACJ","file":"main.30780317.chunk.css","sourcesContent":["#description {\n    color: red;\n}\n\n#image {\n    position: absolute;\n    right: 0px;\n    border: 3px solid #73AD21;\n    padding: 0px;\n}"]}

@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/uniflow-frontend/static/css/main.30780317.chunk.css",
+    "main.js": "/uniflow-frontend/static/js/main.92e480f7.chunk.js",
+    "main.js.map": "/uniflow-frontend/static/js/main.92e480f7.chunk.js.map",
+    "runtime-main.js": "/uniflow-frontend/static/js/runtime-main.59cafa28.js",
+    "runtime-main.js.map": "/uniflow-frontend/static/js/runtime-main.59cafa28.js.map",
+    "static/js/2.27fd7884.chunk.js": "/uniflow-frontend/static/js/2.27fd7884.chunk.js",
+    "static/js/2.27fd7884.chunk.js.map": "/uniflow-frontend/static/js/2.27fd7884.chunk.js.map",
+    "index.html": "/uniflow-frontend/index.html",
+    "precache-manifest.c59d4c4bc2d3899154f3dc24191b121c.js": "/uniflow-frontend/precache-manifest.c59d4c4bc2d3899154f3dc24191b121c.js",
+    "service-worker.js": "/uniflow-frontend/service-worker.js",
+    "static/css/main.30780317.chunk.css.map": "/uniflow-frontend/static/css/main.30780317.chunk.css.map",
+    "static/js/2.27fd7884.chunk.js.LICENSE.txt": "/uniflow-frontend/static/js/2.27fd7884.chunk.js.LICENSE.txt",
+    "static/media/favicon.ico": "/uniflow-frontend/static/media/favicon.6e1267d9.ico",
+    "static/media/logo.svg": "/uniflow-frontend/static/media/logo.5d5d9eef.svg",
+    "static/media/robots.txt": "/uniflow-frontend/static/media/robots.fa1ded1e.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59cafa28.js",
+    "static/js/2.27fd7884.chunk.js",
+    "static/css/main.30780317.chunk.css",
+    "static/js/main.92e480f7.chunk.js"
+  ]
+}
